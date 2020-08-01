@@ -60,21 +60,21 @@ const Result = () => {
           </tr>
         </thead>
         <tbody>
-          {sortedData.map((product, i) => (
-            <tr key={product.rollNumber}>
+          {sortedData.map((student, i) => (
+            <tr key={student.rollNumber}>
               <td
                 className={
                   status[i] && b === i ? "green" : status[i] ? "black" : "red"
                 }
               >
-                {product.name.charAt(0).toUpperCase() + product.name.slice(1)}
+                {student.name.charAt(0).toUpperCase() + product.name.slice(1)}
               </td>
               <td
                 className={
                   status[i] && b === i ? "green" : status[i] ? "black" : "red"
                 }
               >
-                {product.rollNumber}
+                {student.rollNumber}
               </td>
               <td
                 className={
