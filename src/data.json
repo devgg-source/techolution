@@ -1,0 +1,137 @@
+[
+  {
+    "name": "rajiv",
+    "marks": {
+      "Maths": "18",
+      "English": "21",
+      "Science": "45"
+    },
+    "rollNumber": "KV2017-5A2"
+  },
+  {
+    "name": "abhishek",
+    "marks": {
+      "Maths": "43",
+      "English": "30",
+      "Science": "37"
+    },
+    "rollNumber": "KV2017-5A1"
+  },
+  {
+    "name": "zoya",
+    "marks": {
+      "Maths": "42",
+      "English": "31",
+      "Science": "50"
+    },
+    "rollNumber": "KV2017-5A3"
+  },
+  {
+    "name": "karthik",
+    "marks": {
+      "Maths": "45",
+      "English": "33",
+      "Science": "48"
+    },
+    "rollNumber": "KV2017-5A4"
+  },
+  {
+    "name": "ajith",
+    "marks": {
+      "Maths": "19",
+      "English": "31",
+      "Science": "33"
+    },
+    "rollNumber": "KV2017-5A5"
+  },
+  {
+    "name": "john",
+    "marks": {
+      "Maths": "40",
+      "English": "38",
+      "Science": "31"
+    },
+    "rollNumber": "KV2017-5A6"
+  },
+  {
+    "name": "tom",
+    "marks": {
+      "Maths": "32",
+      "English": "31",
+      "Science": "40"
+    },
+    "rollNumber": "KV2017-5A7"
+  },
+  {
+    "name": "jorginho",
+    "marks": {
+      "Maths": "42",
+      "English": "30",
+      "Science": "45"
+    },
+    "rollNumber": "KV2017-5A8"
+  },
+  {
+    "name": "riya",
+    "marks": {
+      "Maths": "40",
+      "English": "39",
+      "Science": "50"
+    },
+    "rollNumber": "KV2017-5A9"
+  },
+  {
+    "name": "aparna",
+    "marks": {
+      "Maths": "38",
+      "English": "31",
+      "Science": "23"
+    },
+    "rollNumber": "KV2017-5A10"
+  },
+  {
+    "name": "neha",
+    "marks": {
+      "Maths": "32",
+      "English": "30",
+      "Science": "47"
+    },
+    "rollNumber": "KV2017-5A11"
+  },
+  {
+    "name": "riyas",
+    "marks": {
+      "Maths": "40",
+      "English": "33",
+      "Science": "29"
+    },
+    "rollNumber": "KV2017-5A12"
+  },
+  {
+    "name": "ziyech",
+    "marks": {
+      "Maths": "42",
+      "English": "16",
+      "Science": "33"
+    },
+    "rollNumber": "KV2017-5A13"
+  },
+  {
+    "name": "beckham",
+    "marks": {
+      "Maths": "50",
+      "English": "48",
+      "Science": "50"
+    },
+    "rollNumber": "KV2017-5A14"
+  },
+  {
+    "name": "lee",
+    "marks": {
+      "Maths": "33",
+      "English": "30",
+      "Science": "42"
+    },
+    "rollNumber": "KV2017-5A15"
+  }
+]
