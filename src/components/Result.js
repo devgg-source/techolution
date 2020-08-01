@@ -67,7 +67,7 @@ const Result = () => {
                   status[i] && b === i ? "green" : status[i] ? "black" : "red"
                 }
               >
-                {student.name.charAt(0).toUpperCase() + product.name.slice(1)}
+                {student.name.charAt(0).toUpperCase() + student.name.slice(1)}
               </td>
               <td
                 className={
